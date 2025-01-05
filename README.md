@@ -21,3 +21,10 @@ The project utilizes the following Python libraries:
 - `matplotlib` and `seaborn` for data visualization.
 
 ---
+## 📊 Dataset
+
+The dataset used in this analysis is the **World Happiness Report 2019**.  
+You can download the dataset from [Kaggle](https://www.kaggle.com/unsdsn/world-happiness) or directly use the preloaded path in the notebook.
+
+---
+
