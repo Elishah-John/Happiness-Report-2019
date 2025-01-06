@@ -27,4 +27,21 @@ The dataset used in this analysis is the **World Happiness Report 2019**.
 You can download the dataset from [Kaggle](https://www.kaggle.com/unsdsn/world-happiness) or directly use the preloaded path in the notebook.
 
 ---
+## 🖥️ How to Run the Notebook
 
+1. Clone this repository:
+   ```bash
+   git clone https://github.com/your-username/world-happiness-2019.git
+
+2. Install required libraries:
+   pip install -r requirements.txt
+
+3. Open the notebook:
+   jupyter notebook world-happiness-2019.ipynb
+
+4. Run the notebook cells sequentially.
+
+---
+## 📜 License
+
+This project is licensed under the MIT License. See the LICENSE file for details.
