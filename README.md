@@ -34,9 +34,11 @@ You can download the dataset from [Kaggle](https://www.kaggle.com/unsdsn/world-h
    git clone https://github.com/Elishah-John/Happiness-Report-2019.git
 
 2. Install required libraries:
+    ```bash
    pip install -r requirements.txt
 
 3. Open the notebook:
+    ```bash
    jupyter notebook world-happiness-2019.ipynb
 
 4. Run the notebook cells sequentially.
