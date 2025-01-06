@@ -31,7 +31,7 @@ You can download the dataset from [Kaggle](https://www.kaggle.com/unsdsn/world-h
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/world-happiness-2019.git
+   git clone https://github.com/Elishah-John/world-happiness-2019.git
 
 2. Install required libraries:
    pip install -r requirements.txt
