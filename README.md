@@ -40,8 +40,11 @@ You can download the dataset from [Kaggle](https://www.kaggle.com/unsdsn/world-h
 3. Open the notebook:
     ```bash
    jupyter notebook world-happiness-2019.ipynb
+   cd world-happiness-2019
 
 4. Run the notebook cells sequentially.
+
+5. The dataset (World Happiness Report 2019.csv) is already included in the repository, so no additional downloads are necessary. The notebook will automatically read the file from the same directory.
 
 ---
 ## 🤝 Contributing
