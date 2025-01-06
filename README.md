@@ -42,6 +42,20 @@ You can download the dataset from [Kaggle](https://www.kaggle.com/unsdsn/world-h
 4. Run the notebook cells sequentially.
 
 ---
+## 🤝 Contributing
+
+Contributions are welcome! Please feel free to submit issues or pull requests to improve this project.
+
+---
 ## 📜 License
 
-This project is licensed under the MIT License. See the LICENSE file for details.
+This project is licensed under the CC BY-SA 4.0 License. See the [License](LICENSE.txt) file for details.
+
+---
+## 📬 Contact
+
+If you have any questions or suggestions, feel free to reach out:
+    **Email**: elishahjohn9@gmail.com
+    **LinkedIn**:  [LinkedIn](http://www.linkedin.com/in/elishah-johnej)
+
+---
