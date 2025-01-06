@@ -57,7 +57,7 @@ This project is licensed under the CC BY-SA 4.0 License. See the [License](LICEN
 ## 📬 Contact
 
 If you have any questions or suggestions, feel free to reach out:
-    **Email**: elishahjohn9@gmail.com
-    **LinkedIn**:  [LinkedIn](http://www.linkedin.com/in/elishah-johnej)
+- **Email**: elishahjohn9@gmail.com
+- **LinkedIn**:  [LinkedIn](http://www.linkedin.com/in/elishah-johnej)
 
 ---
